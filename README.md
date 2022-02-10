@@ -1,0 +1,2 @@
+# pixelsEditorPopupMinimal
+Example module
