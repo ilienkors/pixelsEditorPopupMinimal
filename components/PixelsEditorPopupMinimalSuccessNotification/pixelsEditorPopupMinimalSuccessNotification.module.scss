@@ -1,0 +1,9 @@
+@import 'typography';
+
+.text {
+  @include typography-t4-dark-gray;
+}
+
+.bold {
+  font-weight: 700;
+}
